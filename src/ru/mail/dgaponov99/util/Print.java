@@ -11,6 +11,7 @@ import java.io.PrintStream;
 public class Print {
 
     /**
+     *
      * Prints a object to the console without changing to a new line.
      *
      * @param object The object that is displayed on the console.
